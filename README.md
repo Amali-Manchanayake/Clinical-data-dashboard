@@ -24,4 +24,4 @@ docs/          -> Project documentation
 ```
 
 ## Project Status
-In development.
+Completed.
